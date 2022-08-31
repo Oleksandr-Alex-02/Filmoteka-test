@@ -1,0 +1,1 @@
+{"mappings":"YAAA,IAAMA,EAAMC,SAASC,cAAc,QACnCC,QAAQC,IAAIJ,G","sources":["src/index.js"],"sourcesContent":["const img = document.querySelector('.img');\nconsole.log(img);\n"],"names":["$b8f9b7833fa37166$var$img","document","querySelector","console","log"],"version":3,"file":"index.55a8dadc.js.map"}
