@@ -1,1 +1,25 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    width: 100%;
+    background-size: cover;
+}
