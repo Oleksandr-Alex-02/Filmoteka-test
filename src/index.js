@@ -1,2 +1,2 @@
-const img = document.querySelector('.img');
+const img = document.querySelector('.form');
 console.log(img);
